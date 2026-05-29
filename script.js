@@ -9,3 +9,5 @@ function addTask() {
   output.innerHTML = tasks;
 }
 button.addEventListener("click", addTask);
+
+function saveTask() {}
